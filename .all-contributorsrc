@@ -1,0 +1,155 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Genius398",
+      "name": "Anantjit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74092334?v=4",
+      "profile": "http://anantjit.whjr.site",
+      "contributions": [
+        "bug",
+        "code",
+        "translation",
+        "doc",
+        "ideas",
+        "maintenance",
+        "test",
+        "tutorial",
+        "design",
+        "video",
+        "example",
+        "review",
+        "security"
+      ]
+    },
+    {
+      "login": "somePythonProgrammer",
+      "name": "somePythonProgrammer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74598401?v=4",
+      "profile": "https://github.com/somePythonProgrammer",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "translation",
+        "design",
+        "test",
+        "tutorial",
+        "example",
+        "security",
+        "review"
+      ]
+    },
+    {
+      "login": "Sreehari521",
+      "name": "Sreehari521",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82920449?v=4",
+      "profile": "https://sreehari521.github.io/5A-Attendence_Sheet/index.html",
+      "contributions": [
+        "ideas",
+        "bug",
+        "code",
+        "translation",
+        "doc",
+        "video",
+        "design",
+        "maintenance",
+        "test",
+        "tutorial",
+        "example",
+        "review",
+        "security"
+      ]
+    },
+    {
+      "login": "Super45Coder",
+      "name": "Aarush Goradia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80135238?v=4",
+      "profile": "https://codepen.io/Super45coder59",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "design",
+        "test",
+        "tutorial",
+        "bug",
+        "translation",
+        "maintenance",
+        "video",
+        "example",
+        "review",
+        "security"
+      ]
+    },
+    {
+      "login": "e-coders",
+      "name": "E - Coders (Aasheesh Agarwal)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83082760?v=4",
+      "profile": "https://github.com/e-coders",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "design",
+        "test",
+        "tutorial",
+        "maintenance",
+        "video",
+        "projectManagement",
+        "question",
+        "tool",
+        "business"
+      ]
+    },
+    {
+      "login": "hamiecod",
+      "name": "Hargunbeer Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62215961?v=4",
+      "profile": "https://dev.to/hamiecod",
+      "contributions": [
+        "code",
+        "design",
+        "bug",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Adatta1276",
+      "name": "Adatta1276",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73747859?v=4",
+      "profile": "http://adatta1276.github.io",
+      "contributions": [
+        "tutorial",
+        "design",
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "Srinivaasan27",
+      "name": "Aman Shetty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91794012?v=4",
+      "profile": "http://scratch.mit.edu/users/Srinivaasan/",
+      "contributions": [
+        "code",
+        "ideas",
+        "bug",
+        "design",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Contributors",
+  "projectOwner": "Educational-Websites",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
